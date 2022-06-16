@@ -1,0 +1,69 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(50, 167, 145);
+  width: 100%;
+  align-items: center;
+}
+
+header img {
+  height: 50px;
+}
+
+.trybewarts-login {
+  display: flex;
+  justify-content: flex-end;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+#evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+}
+
+
+#primaria #secundaria {
+  display: flex;
+  flex-direction: row;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+#familia {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+#tecnologias {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+#rate {
+  display: flex;
+  margin: 10px 0;
+}
+
+#inline {
+  display: inline;
+  color: gray;
+}
+
+#submit-btn {
+  margin: 10px 0;
+  background-color: rgba(50, 167, 146, 0.548);
+}
+
+footer {
+  text-align: center;
+}
