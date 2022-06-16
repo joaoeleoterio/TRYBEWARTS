@@ -1,3 +1,5 @@
+![Exemplo do Projeto](./pagina-principal.png)
+
 # Habilidades
 
 Esse projeto utiliza as tecnologias:
